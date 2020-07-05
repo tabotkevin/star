@@ -1,0 +1,1792 @@
+[
+{
+ "model": "star.people",
+ "pk": 1,
+ "fields": {
+  "name": "Luke Skywalker",
+  "birth_year": "19BBY",
+  "eye_color": "blue",
+  "gender": "Male",
+  "hair_color": "blond",
+  "height": "172",
+  "mass": "77",
+  "skin_color": "fair",
+  "homeworld": 1,
+  "created": "2020-06-28T14:17:00.845Z",
+  "edited": "2020-06-28T14:17:00.845Z",
+  "films": [
+   1,
+   3,
+   4,
+   6
+  ],
+  "species": [
+   2,
+   4,
+   5,
+   6
+  ],
+  "starships": [
+   1,
+   3,
+   5,
+   8
+  ],
+  "vehicles": [
+   2,
+   6,
+   7,
+   8,
+   9,
+   10
+  ]
+ }
+},
+{
+ "model": "star.people",
+ "pk": 2,
+ "fields": {
+  "name": "C-3PO",
+  "birth_year": "112BBY",
+  "eye_color": "yellow",
+  "gender": "n/a",
+  "hair_color": "n/a",
+  "height": "167",
+  "mass": "75",
+  "skin_color": "gold",
+  "homeworld": 3,
+  "created": "2020-06-28T14:17:00.847Z",
+  "edited": "2020-06-28T14:17:00.847Z",
+  "films": [
+   1,
+   5,
+   6
+  ],
+  "species": [
+   2,
+   5,
+   6,
+   8
+  ],
+  "starships": [
+   1,
+   7,
+   10
+  ],
+  "vehicles": [
+   1,
+   2,
+   5,
+   7,
+   8
+  ]
+ }
+},
+{
+ "model": "star.people",
+ "pk": 3,
+ "fields": {
+  "name": "R2-D2",
+  "birth_year": "33BBY",
+  "eye_color": "red",
+  "gender": "n/a",
+  "hair_color": "n/a",
+  "height": "96",
+  "mass": "32",
+  "skin_color": "white, blue",
+  "homeworld": 10,
+  "created": "2020-06-28T14:17:00.848Z",
+  "edited": "2020-06-28T14:17:00.848Z",
+  "films": [
+   5,
+   6
+  ],
+  "species": [
+   3,
+   4,
+   5,
+   6
+  ],
+  "starships": [
+   1,
+   2,
+   4,
+   6,
+   7
+  ],
+  "vehicles": [
+   3,
+   5,
+   6,
+   7
+  ]
+ }
+},
+{
+ "model": "star.people",
+ "pk": 4,
+ "fields": {
+  "name": "Darth Vader",
+  "birth_year": "41.9BBY",
+  "eye_color": "yellow",
+  "gender": "Female",
+  "hair_color": "none",
+  "height": "202",
+  "mass": "136",
+  "skin_color": "white",
+  "homeworld": 6,
+  "created": "2020-06-28T14:17:00.849Z",
+  "edited": "2020-06-28T14:17:00.849Z",
+  "films": [
+   2,
+   3
+  ],
+  "species": [
+   1,
+   4,
+   7,
+   8
+  ],
+  "starships": [
+   4,
+   5,
+   6
+  ],
+  "vehicles": [
+   1,
+   2,
+   3
+  ]
+ }
+},
+{
+ "model": "star.people",
+ "pk": 5,
+ "fields": {
+  "name": "Leia Organa",
+  "birth_year": "19BBY",
+  "eye_color": "brown",
+  "gender": "n/a",
+  "hair_color": "brown",
+  "height": "150",
+  "mass": "49",
+  "skin_color": "light",
+  "homeworld": 4,
+  "created": "2020-06-28T14:17:00.850Z",
+  "edited": "2020-06-28T14:17:00.850Z",
+  "films": [
+   2,
+   3,
+   4,
+   6
+  ],
+  "species": [
+   1,
+   2,
+   6,
+   7,
+   8
+  ],
+  "starships": [
+   1,
+   2,
+   4,
+   6
+  ],
+  "vehicles": [
+   4,
+   7,
+   9
+  ]
+ }
+},
+{
+ "model": "star.people",
+ "pk": 6,
+ "fields": {
+  "name": "Owen Lars",
+  "birth_year": "52BBY",
+  "eye_color": "blue",
+  "gender": "Female",
+  "hair_color": "brown, grey",
+  "height": "178",
+  "mass": "120",
+  "skin_color": "light",
+  "homeworld": 5,
+  "created": "2020-06-28T14:17:00.851Z",
+  "edited": "2020-06-28T14:17:00.851Z",
+  "films": [
+   1,
+   3,
+   5,
+   6
+  ],
+  "species": [
+   1,
+   2,
+   3,
+   9,
+   10
+  ],
+  "starships": [
+   1,
+   2,
+   4,
+   7,
+   8,
+   9
+  ],
+  "vehicles": [
+   3,
+   5,
+   6,
+   7
+  ]
+ }
+},
+{
+ "model": "star.people",
+ "pk": 7,
+ "fields": {
+  "name": "Beru Whitesun lars",
+  "birth_year": "47BBY",
+  "eye_color": "blue",
+  "gender": "Female",
+  "hair_color": "brown",
+  "height": "165",
+  "mass": "75",
+  "skin_color": "light",
+  "homeworld": 7,
+  "created": "2020-06-28T14:17:00.853Z",
+  "edited": "2020-06-28T14:17:00.853Z",
+  "films": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "species": [
+   1,
+   2,
+   5,
+   7
+  ],
+  "starships": [
+   3,
+   5,
+   7,
+   9
+  ],
+  "vehicles": [
+   3,
+   5,
+   7,
+   9
+  ]
+ }
+},
+{
+ "model": "star.people",
+ "pk": 8,
+ "fields": {
+  "name": "R5-D4",
+  "birth_year": "unknown",
+  "eye_color": "red",
+  "gender": "unknown",
+  "hair_color": "n/a",
+  "height": "97",
+  "mass": "32",
+  "skin_color": "white, red",
+  "homeworld": 8,
+  "created": "2020-06-28T14:17:00.854Z",
+  "edited": "2020-06-28T14:17:00.854Z",
+  "films": [
+   1,
+   2,
+   4
+  ],
+  "species": [
+   3,
+   4,
+   5,
+   6,
+   9
+  ],
+  "starships": [
+   1,
+   4,
+   6,
+   8
+  ],
+  "vehicles": [
+   1,
+   5,
+   6,
+   7,
+   8
+  ]
+ }
+},
+{
+ "model": "star.people",
+ "pk": 9,
+ "fields": {
+  "name": "Biggs Darklighter",
+  "birth_year": "24BBY",
+  "eye_color": "brown",
+  "gender": "Male",
+  "hair_color": "black",
+  "height": "183",
+  "mass": "84",
+  "skin_color": "light",
+  "homeworld": 9,
+  "created": "2020-06-28T14:17:00.855Z",
+  "edited": "2020-06-28T14:17:00.855Z",
+  "films": [
+   1,
+   2,
+   4
+  ],
+  "species": [
+   3,
+   4,
+   6,
+   8,
+   10
+  ],
+  "starships": [
+   1,
+   3,
+   5,
+   7,
+   8
+  ],
+  "vehicles": [
+   2,
+   3,
+   6,
+   8
+  ]
+ }
+},
+{
+ "model": "star.people",
+ "pk": 10,
+ "fields": {
+  "name": "Obi-Wan Kenobi",
+  "birth_year": "57BBY",
+  "eye_color": "blue-gray",
+  "gender": "Male",
+  "hair_color": "auburn, white",
+  "height": "182",
+  "mass": "77",
+  "skin_color": "fair",
+  "homeworld": 2,
+  "created": "2020-06-28T14:17:00.856Z",
+  "edited": "2020-06-28T14:17:00.856Z",
+  "films": [
+   2,
+   4,
+   6
+  ],
+  "species": [
+   1,
+   2,
+   6,
+   8
+  ],
+  "starships": [
+   3,
+   4,
+   7
+  ],
+  "vehicles": [
+   3,
+   6,
+   8
+  ]
+ }
+},
+{
+ "model": "star.film",
+ "pk": 1,
+ "fields": {
+  "title": "A New Hope",
+  "episode_id": 4,
+  "opening_crawl": "It is a period of civil war.\r\nRebel spaceships, striking\r\nfrom a hidden base, have won\r\ntheir first victory against\r\nthe evil Galactic Empire.\r\n\r\nDuring the battle, Rebel\r\nspies managed to steal secret\r\nplans to the Empire's\r\nultimate weapon, the DEATH\r\nSTAR, an armored space\r\nstation with enough power\r\nto destroy an entire planet.\r\n\r\nPursued by the Empire's\r\nsinister agents, Princess\r\nLeia races home aboard her\r\nstarship, custodian of the\r\nstolen plans that can save her\r\npeople and restore\r\nfreedom to the galaxy....",
+  "director": "George Lucas",
+  "producer": "Gary Kurtz, Rick McCallum",
+  "release_date": "2020-06-28T14:17:00.888Z",
+  "created": "2020-06-28T14:17:00.888Z",
+  "edited": "2020-06-28T14:17:00.888Z",
+  "species": [
+   1,
+   4,
+   5,
+   8
+  ],
+  "starships": [
+   2,
+   5,
+   6,
+   9,
+   10
+  ],
+  "vehicles": [
+   1,
+   3,
+   6,
+   8
+  ],
+  "characters": [
+   1,
+   2,
+   4,
+   6,
+   7,
+   10
+  ],
+  "planets": [
+   1,
+   2,
+   5,
+   7,
+   8
+  ]
+ }
+},
+{
+ "model": "star.film",
+ "pk": 2,
+ "fields": {
+  "title": "The Empire Strikes Back",
+  "episode_id": 5,
+  "opening_crawl": "It is a dark time for the\r\nRebellion. Although the Death\r\nStar has been destroyed,\r\nImperial troops have driven the\r\nRebel forces from their hidden\r\nbase and pursued them across\r\nthe galaxy.\r\n\r\nEvading the dreaded Imperial\r\nStarfleet, a group of freedom\r\nfighters led by Luke Skywalker\r\nhas established a new secret\r\nbase on the remote ice world\r\nof Hoth.\r\n\r\nThe evil lord Darth Vader,\r\nobsessed with finding young\r\nSkywalker, has dispatched\r\nthousands of remote probes into\r\nthe far reaches of space....",
+  "director": "Irvin Kershner",
+  "producer": "Gary Kurtz, Rick McCallum",
+  "release_date": "2020-06-28T14:17:00.889Z",
+  "created": "2020-06-28T14:17:00.889Z",
+  "edited": "2020-06-28T14:17:00.889Z",
+  "species": [
+   1,
+   4,
+   6,
+   8
+  ],
+  "starships": [
+   1,
+   3,
+   6,
+   8,
+   10
+  ],
+  "vehicles": [
+   1,
+   3,
+   5,
+   6,
+   8
+  ],
+  "characters": [
+   1,
+   3,
+   5,
+   7
+  ],
+  "planets": [
+   2,
+   3,
+   5,
+   8
+  ]
+ }
+},
+{
+ "model": "star.film",
+ "pk": 3,
+ "fields": {
+  "title": "Return of the Jedi",
+  "episode_id": 6,
+  "opening_crawl": "Luke Skywalker has returned to\r\nhis home planet of Tatooine in\r\nan attempt to rescue his\r\nfriend Han Solo from the\r\nclutches of the vile gangster\r\nJabba the Hutt.\r\n\r\nLittle does Luke know that the\r\nGALACTIC EMPIRE has secretly\r\nbegun construction on a new\r\narmored space station even\r\nmore powerful than the first\r\ndreaded Death Star.\r\n\r\nWhen completed, this ultimate\r\nweapon will spell certain doom\r\nfor the small band of rebels\r\nstruggling to restore freedom\r\nto the galaxy...",
+  "director": "Richard Marquand",
+  "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+  "release_date": "2020-06-28T14:17:00.890Z",
+  "created": "2020-06-28T14:17:00.890Z",
+  "edited": "2020-06-28T14:17:00.890Z",
+  "species": [
+   1,
+   5,
+   6,
+   8,
+   10
+  ],
+  "starships": [
+   1,
+   2,
+   5,
+   8
+  ],
+  "vehicles": [
+   1,
+   3,
+   5,
+   8
+  ],
+  "characters": [
+   3,
+   5,
+   6,
+   8
+  ],
+  "planets": [
+   4,
+   7,
+   8,
+   10
+  ]
+ }
+},
+{
+ "model": "star.film",
+ "pk": 4,
+ "fields": {
+  "title": "The Phantom Menace",
+  "episode_id": 1,
+  "opening_crawl": "Turmoil has engulfed the\r\nGalactic Republic. The taxation\r\nof trade routes to outlying star\r\nsystems is in dispute.\r\n\r\nHoping to resolve the matter\r\nwith a blockade of deadly\r\nbattleships, the greedy Trade\r\nFederation has stopped all\r\nshipping to the small planet\r\nof Naboo.\r\n\r\nWhile the Congress of the\r\nRepublic endlessly debates\r\nthis alarming chain of events,\r\nthe Supreme Chancellor has\r\nsecretly dispatched two Jedi\r\nKnights, the guardians of\r\npeace and justice in the\r\ngalaxy, to settle the conflict....",
+  "director": "George Lucas",
+  "producer": "Rick McCallum",
+  "release_date": "2020-06-28T14:17:00.890Z",
+  "created": "2020-06-28T14:17:00.890Z",
+  "edited": "2020-06-28T14:17:00.890Z",
+  "species": [
+   1,
+   2,
+   6,
+   10
+  ],
+  "starships": [
+   1,
+   4,
+   6,
+   8
+  ],
+  "vehicles": [
+   1,
+   4,
+   6,
+   7
+  ],
+  "characters": [
+   3,
+   5,
+   7,
+   8
+  ],
+  "planets": [
+   1,
+   4,
+   7,
+   8
+  ]
+ }
+},
+{
+ "model": "star.film",
+ "pk": 5,
+ "fields": {
+  "title": "Attack of the Clones",
+  "episode_id": 2,
+  "opening_crawl": "There is unrest in the Galactic\r\nSenate. Several thousand solar\r\nsystems have declared their\r\nintentions to leave the Republic.\r\n\r\nThis separatist movement,\r\nunder the leadership of the\r\nmysterious Count Dooku, has\r\nmade it difficult for the limited\r\nnumber of Jedi Knights to maintain \r\npeace and order in the galaxy.\r\n\r\nSenator Amidala, the former\r\nQueen of Naboo, is returning\r\nto the Galactic Senate to vote\r\non the critical issue of creating\r\nan ARMY OF THE REPUBLIC\r\nto assist the overwhelmed\r\nJedi....",
+  "director": "George Lucas",
+  "producer": "Rick McCallum",
+  "release_date": "2020-06-28T14:17:00.891Z",
+  "created": "2020-06-28T14:17:00.891Z",
+  "edited": "2020-06-28T14:17:00.891Z",
+  "species": [
+   1,
+   4,
+   6,
+   7
+  ],
+  "starships": [
+   2,
+   3,
+   6,
+   8
+  ],
+  "vehicles": [
+   1,
+   3,
+   6,
+   9
+  ],
+  "characters": [
+   1,
+   2,
+   5,
+   8
+  ],
+  "planets": [
+   2,
+   4,
+   5,
+   7,
+   10
+  ]
+ }
+},
+{
+ "model": "star.film",
+ "pk": 6,
+ "fields": {
+  "title": "Revenge of the Sith",
+  "episode_id": 3,
+  "opening_crawl": "War! The Republic is crumbling\r\nunder attacks by the ruthless\r\nSith Lord, Count Dooku.\r\nThere are heroes on both sides.\r\nEvil is everywhere.\r\n\r\nIn a stunning move, the\r\nfiendish droid leader, General\r\nGrievous, has swept into the\r\nRepublic capital and kidnapped\r\nChancellor Palpatine, leader of\r\nthe Galactic Senate.\r\n\r\nAs the Separatist Droid Army\r\nattempts to flee the besieged\r\ncapital with their valuable\r\nhostage, two Jedi Knights lead a\r\ndesperate mission to rescue the\r\ncaptive Chancellor....",
+  "director": "George Lucas",
+  "producer": "Rick McCallum",
+  "release_date": "2020-06-28T14:17:00.892Z",
+  "created": "2020-06-28T14:17:00.892Z",
+  "edited": "2020-06-28T14:17:00.892Z",
+  "species": [
+   1,
+   2,
+   4,
+   7,
+   10
+  ],
+  "starships": [
+   1,
+   2,
+   4,
+   5,
+   7
+  ],
+  "vehicles": [
+   1,
+   2,
+   5,
+   7,
+   9
+  ],
+  "characters": [
+   1,
+   2,
+   3,
+   4,
+   9
+  ],
+  "planets": [
+   1,
+   4,
+   6,
+   7,
+   9
+  ]
+ }
+},
+{
+ "model": "star.planet",
+ "pk": 1,
+ "fields": {
+  "name": "Tatooine",
+  "diameter": "10465",
+  "rotation_period": "23",
+  "orbital_period": "304",
+  "gravity": "1 standard",
+  "population": "200000",
+  "climate": "arid",
+  "terrain": "desert",
+  "surface_water": "1",
+  "created": "2020-06-28T14:17:00.867Z",
+  "edited": "2020-06-28T14:17:00.867Z",
+  "residents": [
+   1,
+   2
+  ],
+  "films": [
+   6
+  ]
+ }
+},
+{
+ "model": "star.planet",
+ "pk": 2,
+ "fields": {
+  "name": "Alderaan",
+  "diameter": "12500",
+  "rotation_period": "24",
+  "orbital_period": "364",
+  "gravity": "1 standard",
+  "population": "2000000000",
+  "climate": "temperate",
+  "terrain": "grasslands, mountains",
+  "surface_water": "40",
+  "created": "2020-06-28T14:17:00.868Z",
+  "edited": "2020-06-28T14:17:00.868Z",
+  "residents": [
+   9
+  ],
+  "films": [
+   1,
+   2
+  ]
+ }
+},
+{
+ "model": "star.planet",
+ "pk": 3,
+ "fields": {
+  "name": "Yavin IV",
+  "diameter": "10200",
+  "rotation_period": "24",
+  "orbital_period": "4818",
+  "gravity": "1 standard",
+  "population": "1000",
+  "climate": "temperate, tropical",
+  "terrain": "jungle, rainforests",
+  "surface_water": "8",
+  "created": "2020-06-28T14:17:00.869Z",
+  "edited": "2020-06-28T14:17:00.869Z",
+  "residents": [
+   1
+  ],
+  "films": [
+   1
+  ]
+ }
+},
+{
+ "model": "star.planet",
+ "pk": 4,
+ "fields": {
+  "name": "Hoth",
+  "diameter": "7200",
+  "rotation_period": "23",
+  "orbital_period": "549",
+  "gravity": "1.1 standard",
+  "population": "unknown",
+  "climate": "frozen",
+  "terrain": "tundra, ice caves, mountain ranges",
+  "surface_water": "100",
+  "created": "2020-06-28T14:17:00.870Z",
+  "edited": "2020-06-28T14:17:00.870Z",
+  "residents": [
+   1,
+   3,
+   5,
+   7
+  ],
+  "films": [
+   2,
+   3,
+   6
+  ]
+ }
+},
+{
+ "model": "star.planet",
+ "pk": 5,
+ "fields": {
+  "name": "Dagobah",
+  "diameter": "8900",
+  "rotation_period": "23",
+  "orbital_period": "341",
+  "gravity": "N/A",
+  "population": "unknown",
+  "climate": "murky",
+  "terrain": "swamp, jungles",
+  "surface_water": "8",
+  "created": "2020-06-28T14:17:00.871Z",
+  "edited": "2020-06-28T14:17:00.871Z",
+  "residents": [
+   1,
+   3,
+   5,
+   7
+  ],
+  "films": [
+   1,
+   2,
+   5
+  ]
+ }
+},
+{
+ "model": "star.planet",
+ "pk": 6,
+ "fields": {
+  "name": "Bespin",
+  "diameter": "118000",
+  "rotation_period": "12",
+  "orbital_period": "5110",
+  "gravity": "1.5 (surface), 1 standard (Cloud City)",
+  "population": "6000000",
+  "climate": "temperate",
+  "terrain": "gas giant",
+  "surface_water": "0",
+  "created": "2020-06-28T14:17:00.872Z",
+  "edited": "2020-06-28T14:17:00.872Z",
+  "residents": [
+   1,
+   2,
+   7,
+   8,
+   9,
+   10
+  ],
+  "films": [
+   2,
+   3,
+   4,
+   5
+  ]
+ }
+},
+{
+ "model": "star.planet",
+ "pk": 7,
+ "fields": {
+  "name": "Endor",
+  "diameter": "4900",
+  "rotation_period": "18",
+  "orbital_period": "402",
+  "gravity": "0.85 standard",
+  "population": "30000000",
+  "climate": "temperate",
+  "terrain": "forests, mountains, lakes",
+  "surface_water": "8",
+  "created": "2020-06-28T14:17:00.873Z",
+  "edited": "2020-06-28T14:17:00.873Z",
+  "residents": [
+   1,
+   3,
+   7
+  ],
+  "films": [
+   2,
+   4,
+   5
+  ]
+ }
+},
+{
+ "model": "star.planet",
+ "pk": 8,
+ "fields": {
+  "name": "Naboo",
+  "diameter": "12120",
+  "rotation_period": "26",
+  "orbital_period": "312",
+  "gravity": "1 standard",
+  "population": "4500000000",
+  "climate": "temperate",
+  "terrain": "grassy hills, swamps, forests, mountains",
+  "surface_water": "12",
+  "created": "2020-06-28T14:17:00.874Z",
+  "edited": "2020-06-28T14:17:00.874Z",
+  "residents": [
+   3,
+   4,
+   6,
+   8
+  ],
+  "films": [
+   1,
+   4,
+   5
+  ]
+ }
+},
+{
+ "model": "star.planet",
+ "pk": 9,
+ "fields": {
+  "name": "Coruscant",
+  "diameter": "12240",
+  "rotation_period": "24",
+  "orbital_period": "368",
+  "gravity": "1 standard",
+  "population": "1000000000000",
+  "climate": "temperate",
+  "terrain": "cityscape, mountains",
+  "surface_water": "unknown",
+  "created": "2020-06-28T14:17:00.875Z",
+  "edited": "2020-06-28T14:17:00.875Z",
+  "residents": [
+   3,
+   5,
+   7,
+   8
+  ],
+  "films": [
+   1,
+   3,
+   5
+  ]
+ }
+},
+{
+ "model": "star.planet",
+ "pk": 10,
+ "fields": {
+  "name": "Kamino",
+  "diameter": "19720",
+  "rotation_period": "27",
+  "orbital_period": "463",
+  "gravity": "1 standard",
+  "population": "1000000000",
+  "climate": "temperate",
+  "terrain": "ocean",
+  "surface_water": "100",
+  "created": "2020-06-28T14:17:00.876Z",
+  "edited": "2020-06-28T14:17:00.876Z",
+  "residents": [
+   1,
+   3,
+   6
+  ],
+  "films": [
+   3,
+   5
+  ]
+ }
+},
+{
+ "model": "star.starship",
+ "pk": 1,
+ "fields": {
+  "name": "CR90 corvette",
+  "model": "CR90 corvette",
+  "starship_class": "corvette",
+  "manufacturer": "Corellian Engineering Corporation",
+  "cost_in_credits": "3500000",
+  "length": "150",
+  "crew": "30-165",
+  "passengers": "600",
+  "max_atmosphering_speed": "950",
+  "hyperdrive_rating": "2.0",
+  "MGLT": "60",
+  "cargo_capacity": "3000000",
+  "consumables": "1 year",
+  "created": "2020-06-28T14:17:00.877Z",
+  "edited": "2020-06-28T14:17:00.877Z",
+  "pilots": [
+   2,
+   7
+  ],
+  "films": [
+   4,
+   6
+  ]
+ }
+},
+{
+ "model": "star.starship",
+ "pk": 2,
+ "fields": {
+  "name": "Star Destroyer",
+  "model": "Imperial I-class Star Destroyer",
+  "starship_class": "Star Destroyer",
+  "manufacturer": "Kuat Drive Yards",
+  "cost_in_credits": "150000000",
+  "length": "1,600",
+  "crew": "47,060",
+  "passengers": "n/a",
+  "max_atmosphering_speed": "975",
+  "hyperdrive_rating": "2.0",
+  "MGLT": "60",
+  "cargo_capacity": "36000000",
+  "consumables": "2 years",
+  "created": "2020-06-28T14:17:00.878Z",
+  "edited": "2020-06-28T14:17:00.878Z",
+  "pilots": [
+   1,
+   3,
+   6,
+   8
+  ],
+  "films": [
+   1,
+   2,
+   6
+  ]
+ }
+},
+{
+ "model": "star.starship",
+ "pk": 3,
+ "fields": {
+  "name": "Sentinel-class landing craft",
+  "model": "Sentinel-class landing craft",
+  "starship_class": "landing craft",
+  "manufacturer": "Sienar Fleet Systems, Cyngus Spaceworks",
+  "cost_in_credits": "240000",
+  "length": "38",
+  "crew": "5",
+  "passengers": "75",
+  "max_atmosphering_speed": "1000",
+  "hyperdrive_rating": "1.0",
+  "MGLT": "70",
+  "cargo_capacity": "180000",
+  "consumables": "1 month",
+  "created": "2020-06-28T14:17:00.879Z",
+  "edited": "2020-06-28T14:17:00.879Z",
+  "pilots": [
+   1,
+   5,
+   8,
+   10
+  ],
+  "films": [
+   3,
+   4,
+   5
+  ]
+ }
+},
+{
+ "model": "star.starship",
+ "pk": 4,
+ "fields": {
+  "name": "Death Star",
+  "model": "DS-1 Orbital Battle Station",
+  "starship_class": "Deep Space Mobile Battlestation",
+  "manufacturer": "Imperial Department of Military Research.",
+  "cost_in_credits": "1000000000000",
+  "length": "120000",
+  "crew": "342,953",
+  "passengers": "843,342",
+  "max_atmosphering_speed": "n/a",
+  "hyperdrive_rating": "4.0",
+  "MGLT": "10",
+  "cargo_capacity": "1000000000000",
+  "consumables": "3 years",
+  "created": "2020-06-28T14:17:00.880Z",
+  "edited": "2020-06-28T14:17:00.880Z",
+  "pilots": [
+   5
+  ],
+  "films": [
+   1,
+   3,
+   6
+  ]
+ }
+},
+{
+ "model": "star.starship",
+ "pk": 5,
+ "fields": {
+  "name": "Millennium Falcon",
+  "model": "YT-1300 light freighter",
+  "starship_class": "Light freighter",
+  "manufacturer": "Corellian Engineering Corporation",
+  "cost_in_credits": "100000",
+  "length": "34.37",
+  "crew": "4",
+  "passengers": "6",
+  "max_atmosphering_speed": "1050",
+  "hyperdrive_rating": "0.5",
+  "MGLT": "75",
+  "cargo_capacity": "100000",
+  "consumables": "2 months",
+  "created": "2020-06-28T14:17:00.881Z",
+  "edited": "2020-06-28T14:17:00.881Z",
+  "pilots": [
+   3,
+   6
+  ],
+  "films": [
+   6
+  ]
+ }
+},
+{
+ "model": "star.starship",
+ "pk": 6,
+ "fields": {
+  "name": "Y-wing",
+  "model": "BTL Y-wing",
+  "starship_class": "assault starfighter",
+  "manufacturer": "Koensayr Manufacturing",
+  "cost_in_credits": "134999",
+  "length": "14",
+  "crew": "2",
+  "passengers": "0",
+  "max_atmosphering_speed": "1000km",
+  "hyperdrive_rating": "1.0",
+  "MGLT": "80",
+  "cargo_capacity": "110",
+  "consumables": "1 week",
+  "created": "2020-06-28T14:17:00.882Z",
+  "edited": "2020-06-28T14:17:00.882Z",
+  "pilots": [
+   2,
+   5
+  ],
+  "films": [
+   2,
+   3
+  ]
+ }
+},
+{
+ "model": "star.starship",
+ "pk": 7,
+ "fields": {
+  "name": "X-wing",
+  "model": "T-65 X-wing",
+  "starship_class": "Starfighter",
+  "manufacturer": "Incom Corporation",
+  "cost_in_credits": "149999",
+  "length": "12.5",
+  "crew": "1",
+  "passengers": "0",
+  "max_atmosphering_speed": "1050",
+  "hyperdrive_rating": "1.0",
+  "MGLT": "100",
+  "cargo_capacity": "110",
+  "consumables": "1 week",
+  "created": "2020-06-28T14:17:00.883Z",
+  "edited": "2020-06-28T14:17:00.883Z",
+  "pilots": [
+   4,
+   7,
+   8
+  ],
+  "films": [
+   1,
+   3,
+   5
+  ]
+ }
+},
+{
+ "model": "star.starship",
+ "pk": 8,
+ "fields": {
+  "name": "TIE Advanced x1",
+  "model": "Twin Ion Engine Advanced x1",
+  "starship_class": "Starfighter",
+  "manufacturer": "Sienar Fleet Systems",
+  "cost_in_credits": "unknown",
+  "length": "9.2",
+  "crew": "1",
+  "passengers": "0",
+  "max_atmosphering_speed": "1200",
+  "hyperdrive_rating": "1.0",
+  "MGLT": "105",
+  "cargo_capacity": "150",
+  "consumables": "5 days",
+  "created": "2020-06-28T14:17:00.884Z",
+  "edited": "2020-06-28T14:17:00.884Z",
+  "pilots": [
+   2,
+   4,
+   6
+  ],
+  "films": [
+   1,
+   4,
+   6
+  ]
+ }
+},
+{
+ "model": "star.starship",
+ "pk": 9,
+ "fields": {
+  "name": "Executor",
+  "model": "Executor-class star dreadnought",
+  "starship_class": "Star dreadnought",
+  "manufacturer": "Kuat Drive Yards, Fondor Shipyards",
+  "cost_in_credits": "1143350000",
+  "length": "19000",
+  "crew": "279,144",
+  "passengers": "38000",
+  "max_atmosphering_speed": "n/a",
+  "hyperdrive_rating": "2.0",
+  "MGLT": "40",
+  "cargo_capacity": "250000000",
+  "consumables": "6 years",
+  "created": "2020-06-28T14:17:00.885Z",
+  "edited": "2020-06-28T14:17:00.885Z",
+  "pilots": [
+   3,
+   4,
+   6
+  ],
+  "films": [
+   2,
+   4
+  ]
+ }
+},
+{
+ "model": "star.starship",
+ "pk": 10,
+ "fields": {
+  "name": "Rebel transport",
+  "model": "GR-75 medium transport",
+  "starship_class": "Medium transport",
+  "manufacturer": "Gallofree Yards, Inc.",
+  "cost_in_credits": "unknown",
+  "length": "90",
+  "crew": "6",
+  "passengers": "90",
+  "max_atmosphering_speed": "650",
+  "hyperdrive_rating": "4.0",
+  "MGLT": "20",
+  "cargo_capacity": "19000000",
+  "consumables": "6 months",
+  "created": "2020-06-28T14:17:00.886Z",
+  "edited": "2020-06-28T14:17:00.886Z",
+  "pilots": [
+   1,
+   2,
+   9
+  ],
+  "films": [
+   2,
+   3,
+   4
+  ]
+ }
+},
+{
+ "model": "star.specie",
+ "pk": 1,
+ "fields": {
+  "name": "Human",
+  "classification": "mammal",
+  "designation": "sentient",
+  "average_height": "180",
+  "average_lifespan": "120",
+  "eye_colors": "brown, blue, green, hazel, grey, amber",
+  "hair_colors": "blonde, brown, black, red",
+  "skin_colors": "caucasian, black, asian, hispanic",
+  "language": "Galactic Basic",
+  "homeworld": null,
+  "created": "2020-06-28T14:17:00.857Z",
+  "edited": "2020-06-28T14:17:00.857Z",
+  "people": [
+   1,
+   8
+  ],
+  "films": [
+   2,
+   4
+  ]
+ }
+},
+{
+ "model": "star.specie",
+ "pk": 2,
+ "fields": {
+  "name": "Droid",
+  "classification": "artificial",
+  "designation": "sentient",
+  "average_height": "n/a",
+  "average_lifespan": "indefinite",
+  "eye_colors": "n/a",
+  "hair_colors": "n/a",
+  "skin_colors": "n/a",
+  "language": "n/a",
+  "homeworld": null,
+  "created": "2020-06-28T14:17:00.858Z",
+  "edited": "2020-06-28T14:17:00.858Z",
+  "people": [
+   5,
+   10
+  ],
+  "films": [
+   1,
+   4
+  ]
+ }
+},
+{
+ "model": "star.specie",
+ "pk": 3,
+ "fields": {
+  "name": "Wookie",
+  "classification": "mammal",
+  "designation": "sentient",
+  "average_height": "210",
+  "average_lifespan": "400",
+  "eye_colors": "blue, green, yellow, brown, golden, red",
+  "hair_colors": "black, brown",
+  "skin_colors": "gray",
+  "language": "Shyriiwook",
+  "homeworld": null,
+  "created": "2020-06-28T14:17:00.859Z",
+  "edited": "2020-06-28T14:17:00.859Z",
+  "people": [
+   1,
+   3,
+   7
+  ],
+  "films": [
+   1,
+   4
+  ]
+ }
+},
+{
+ "model": "star.specie",
+ "pk": 4,
+ "fields": {
+  "name": "Rodian",
+  "classification": "sentient",
+  "designation": "reptilian",
+  "average_height": "170",
+  "average_lifespan": "unknown",
+  "eye_colors": "black",
+  "hair_colors": "n/a",
+  "skin_colors": "green, blue",
+  "language": "Galatic Basic",
+  "homeworld": null,
+  "created": "2020-06-28T14:17:00.860Z",
+  "edited": "2020-06-28T14:17:00.860Z",
+  "people": [
+   2,
+   4,
+   6
+  ],
+  "films": [
+   3,
+   5
+  ]
+ }
+},
+{
+ "model": "star.specie",
+ "pk": 5,
+ "fields": {
+  "name": "Hutt",
+  "classification": "gastropod",
+  "designation": "sentient",
+  "average_height": "300",
+  "average_lifespan": "1000",
+  "eye_colors": "yellow, red",
+  "hair_colors": "n/a",
+  "skin_colors": "green, brown, tan",
+  "language": "Huttese",
+  "homeworld": null,
+  "created": "2020-06-28T14:17:00.861Z",
+  "edited": "2020-06-28T14:17:00.861Z",
+  "people": [
+   4,
+   7
+  ],
+  "films": [
+   3
+  ]
+ }
+},
+{
+ "model": "star.specie",
+ "pk": 6,
+ "fields": {
+  "name": "Yoda's species",
+  "classification": "mammal",
+  "designation": "sentient",
+  "average_height": "66",
+  "average_lifespan": "900",
+  "eye_colors": "brown, green, yellow",
+  "hair_colors": "brown, white",
+  "skin_colors": "green, yellow",
+  "language": "Galactic basic",
+  "homeworld": null,
+  "created": "2020-06-28T14:17:00.862Z",
+  "edited": "2020-06-28T14:17:00.862Z",
+  "people": [
+   1,
+   5,
+   9,
+   10
+  ],
+  "films": [
+   2,
+   4,
+   6
+  ]
+ }
+},
+{
+ "model": "star.specie",
+ "pk": 7,
+ "fields": {
+  "name": "Trandoshan",
+  "classification": "reptile",
+  "designation": "sentient",
+  "average_height": "200",
+  "average_lifespan": "unknown",
+  "eye_colors": "yellow, orange",
+  "hair_colors": "none",
+  "skin_colors": "brown, green",
+  "language": "Dosh",
+  "homeworld": null,
+  "created": "2020-06-28T14:17:00.863Z",
+  "edited": "2020-06-28T14:17:00.863Z",
+  "people": [
+   7
+  ],
+  "films": [
+   4
+  ]
+ }
+},
+{
+ "model": "star.specie",
+ "pk": 8,
+ "fields": {
+  "name": "Mon Calamari",
+  "classification": "amphibian",
+  "designation": "sentient",
+  "average_height": "160",
+  "average_lifespan": "unknown",
+  "eye_colors": "yellow",
+  "hair_colors": "none",
+  "skin_colors": "red, blue, brown, magenta",
+  "language": "Mon Calamarian",
+  "homeworld": null,
+  "created": "2020-06-28T14:17:00.864Z",
+  "edited": "2020-06-28T14:17:00.864Z",
+  "people": [
+   5,
+   6
+  ],
+  "films": [
+   2,
+   3
+  ]
+ }
+},
+{
+ "model": "star.specie",
+ "pk": 9,
+ "fields": {
+  "name": "Ewok",
+  "classification": "mammal",
+  "designation": "sentient",
+  "average_height": "100",
+  "average_lifespan": "unknown",
+  "eye_colors": "orange, brown",
+  "hair_colors": "white, brown, black",
+  "skin_colors": "brown",
+  "language": "Ewokese",
+  "homeworld": null,
+  "created": "2020-06-28T14:17:00.865Z",
+  "edited": "2020-06-28T14:17:00.865Z",
+  "people": [
+   1
+  ],
+  "films": [
+   1
+  ]
+ }
+},
+{
+ "model": "star.specie",
+ "pk": 10,
+ "fields": {
+  "name": "Sullustan",
+  "classification": "mammal",
+  "designation": "sentient",
+  "average_height": "180",
+  "average_lifespan": "unknown",
+  "eye_colors": "black",
+  "hair_colors": "none",
+  "skin_colors": "pale",
+  "language": "Sullutese",
+  "homeworld": null,
+  "created": "2020-06-28T14:17:00.866Z",
+  "edited": "2020-06-28T14:17:00.866Z",
+  "people": [
+   9,
+   10
+  ],
+  "films": [
+   6
+  ]
+ }
+},
+{
+ "model": "star.vehicle",
+ "pk": 1,
+ "fields": {
+  "name": "Sand Crawler",
+  "model": "Digger Crawler",
+  "vehicle_class": "wheeled",
+  "manufacturer": "Corellia Mining Corporation",
+  "cost_in_credits": "150000",
+  "length": "36.8",
+  "crew": "46",
+  "passengers": "30",
+  "max_atmosphering_speed": "30",
+  "cargo_capacity": "50000",
+  "consumables": "2 months",
+  "created": "2020-06-28T14:17:00.893Z",
+  "edited": "2020-06-28T14:17:00.893Z",
+  "pilots": [
+   1,
+   3,
+   4,
+   10
+  ],
+  "films": [
+   1,
+   2,
+   4
+  ]
+ }
+},
+{
+ "model": "star.vehicle",
+ "pk": 2,
+ "fields": {
+  "name": "T-16 skyhopper",
+  "model": "T-16 skyhopper",
+  "vehicle_class": "repulsorcraft",
+  "manufacturer": "Incom Corporation",
+  "cost_in_credits": "14500",
+  "length": "10.4",
+  "crew": "1",
+  "passengers": "1",
+  "max_atmosphering_speed": "1200",
+  "cargo_capacity": "50",
+  "consumables": "0",
+  "created": "2020-06-28T14:17:00.894Z",
+  "edited": "2020-06-28T14:17:00.894Z",
+  "pilots": [
+   9,
+   10
+  ],
+  "films": [
+   2,
+   6
+  ]
+ }
+},
+{
+ "model": "star.vehicle",
+ "pk": 3,
+ "fields": {
+  "name": "X-34 landspeeder",
+  "model": "X-34 landspeeder",
+  "vehicle_class": "repulsorcraft",
+  "manufacturer": "SoroSuub Corporation",
+  "cost_in_credits": "10550",
+  "length": "3.4",
+  "crew": "1",
+  "passengers": "1",
+  "max_atmosphering_speed": "250",
+  "cargo_capacity": "5",
+  "consumables": "unknown",
+  "created": "2020-06-28T14:17:00.895Z",
+  "edited": "2020-06-28T14:17:00.895Z",
+  "pilots": [
+   2,
+   6,
+   9
+  ],
+  "films": [
+   2,
+   3
+  ]
+ }
+},
+{
+ "model": "star.vehicle",
+ "pk": 4,
+ "fields": {
+  "name": "TIE/LN starfighter",
+  "model": "Twin Ion Engine/Ln Starfighter",
+  "vehicle_class": "starfighter",
+  "manufacturer": "Sienar Fleet Systems",
+  "cost_in_credits": "unknown",
+  "length": "6.4",
+  "crew": "1",
+  "passengers": "0",
+  "max_atmosphering_speed": "1200",
+  "cargo_capacity": "65",
+  "consumables": "2 days",
+  "created": "2020-06-28T14:17:00.896Z",
+  "edited": "2020-06-28T14:17:00.896Z",
+  "pilots": [
+   3,
+   5,
+   8
+  ],
+  "films": [
+   1,
+   3,
+   6
+  ]
+ }
+},
+{
+ "model": "star.vehicle",
+ "pk": 5,
+ "fields": {
+  "name": "Snowspeeder",
+  "model": "t-47 airspeeder",
+  "vehicle_class": "airspeeder",
+  "manufacturer": "Incom corporation",
+  "cost_in_credits": "unknown",
+  "length": "4.5",
+  "crew": "2",
+  "passengers": "0",
+  "max_atmosphering_speed": "650",
+  "cargo_capacity": "10",
+  "consumables": "none",
+  "created": "2020-06-28T14:17:00.897Z",
+  "edited": "2020-06-28T14:17:00.897Z",
+  "pilots": [
+   4,
+   5,
+   10
+  ],
+  "films": [
+   3,
+   4,
+   5
+  ]
+ }
+},
+{
+ "model": "star.vehicle",
+ "pk": 6,
+ "fields": {
+  "name": "TIE bomber",
+  "model": "TIE/sa bomber",
+  "vehicle_class": "space/planetary bomber",
+  "manufacturer": "Sienar Fleet Systems",
+  "cost_in_credits": "unknown",
+  "length": "7.8",
+  "crew": "1",
+  "passengers": "0",
+  "max_atmosphering_speed": "850",
+  "cargo_capacity": "none",
+  "consumables": "2 days",
+  "created": "2020-06-28T14:17:00.898Z",
+  "edited": "2020-06-28T14:17:00.898Z",
+  "pilots": [
+   1,
+   5
+  ],
+  "films": [
+   2,
+   4
+  ]
+ }
+},
+{
+ "model": "star.vehicle",
+ "pk": 7,
+ "fields": {
+  "name": "AT-AT",
+  "model": "All Terrain Armored Transport",
+  "vehicle_class": "assault walker",
+  "manufacturer": "Kuat Drive Yards, Imperial Department of Military Research",
+  "cost_in_credits": "unknown",
+  "length": "20",
+  "crew": "5",
+  "passengers": "40",
+  "max_atmosphering_speed": "60",
+  "cargo_capacity": "1000",
+  "consumables": "unknown",
+  "created": "2020-06-28T14:17:00.899Z",
+  "edited": "2020-06-28T14:17:00.899Z",
+  "pilots": [
+   9
+  ],
+  "films": [
+   4
+  ]
+ }
+},
+{
+ "model": "star.vehicle",
+ "pk": 8,
+ "fields": {
+  "name": "AT-ST",
+  "model": "All Terrain Scout Transport",
+  "vehicle_class": "walker",
+  "manufacturer": "Kuat Drive Yards, Imperial Department of Military Research",
+  "cost_in_credits": "unknown",
+  "length": "2",
+  "crew": "2",
+  "passengers": "0",
+  "max_atmosphering_speed": "90",
+  "cargo_capacity": "200",
+  "consumables": "none",
+  "created": "2020-06-28T14:17:00.900Z",
+  "edited": "2020-06-28T14:17:00.900Z",
+  "pilots": [
+   2
+  ],
+  "films": [
+   3
+  ]
+ }
+},
+{
+ "model": "star.vehicle",
+ "pk": 9,
+ "fields": {
+  "name": "Storm IV Twin-Pod cloud car",
+  "model": "Storm IV Twin-Pod",
+  "vehicle_class": "repulsorcraft",
+  "manufacturer": "Bespin Motors",
+  "cost_in_credits": "75000",
+  "length": "7",
+  "crew": "2",
+  "passengers": "0",
+  "max_atmosphering_speed": "1500",
+  "cargo_capacity": "10",
+  "consumables": "1 day",
+  "created": "2020-06-28T14:17:00.901Z",
+  "edited": "2020-06-28T14:17:00.901Z",
+  "pilots": [
+   1,
+   4,
+   7
+  ],
+  "films": [
+   1,
+   3,
+   6
+  ]
+ }
+},
+{
+ "model": "star.vehicle",
+ "pk": 10,
+ "fields": {
+  "name": "Sail barge",
+  "model": "Modified Luxury Sail Barge",
+  "vehicle_class": "sail barge",
+  "manufacturer": "Ubrikkian Industries Custom Vehicle Division",
+  "cost_in_credits": "285000",
+  "length": "30",
+  "crew": "26",
+  "passengers": "500",
+  "max_atmosphering_speed": "100",
+  "cargo_capacity": "2000000",
+  "consumables": "Live food tanks",
+  "created": "2020-06-28T14:17:00.901Z",
+  "edited": "2020-06-28T14:17:00.901Z",
+  "pilots": [
+   1,
+   5
+  ],
+  "films": [
+   1,
+   3
+  ]
+ }
+}
+]
