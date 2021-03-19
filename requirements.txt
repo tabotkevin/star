@@ -1,4 +1,4 @@
 Django
-djangorestframework==3.10.0
+djangorestframework==3.11.2
 pytest-django==3.8.0
 django-filter==2.0.0
